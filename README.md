@@ -2,4 +2,4 @@
 
 IT student from the Philippines who builds web and mobile apps.
 
-📫 [LinkedIn](https://www.linkedin.com/in/gabbogs/)
+🌐 [Portfolio](https://gabbogs.netlify.app) · 📫 [LinkedIn](https://www.linkedin.com/in/gabbogs/)
